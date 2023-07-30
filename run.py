@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup as bs
 
 class main:
     def main():
-        nomer="895343503511"
+        nomer="nomor telpon"
         print(nomer)
         spam.piza(nomer)
         spam.map(nomer)
