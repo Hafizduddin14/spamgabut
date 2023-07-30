@@ -1,7 +1,10 @@
 name: Auto Start
 
 on:
-      
+
+  push:
+    branches:
+      - main
   schedule:
   - cron: "30 * * * *" # See https://crontab.guru/#0_7,9,11,17,20_*_*_*
 
