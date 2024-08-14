@@ -1,4 +1,4 @@
-## Install depedency
+## Install Depedency
 
 pip install -r install.txt
 
