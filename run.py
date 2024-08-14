@@ -12,7 +12,7 @@ class main:
         spam.icq(nomer)
         spam.adakami(nomer)
         spam.coowry(nomer)
-        spam.iuga(nomer)
+        # spam.iuga(nomer)
         spam.fav(nomer)
         # spam.suplai(nomer)
         spam.depop(nomer)
