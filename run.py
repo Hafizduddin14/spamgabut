@@ -14,7 +14,7 @@ class main:
         spam.coowry(nomer)
         spam.iuga(nomer)
         spam.fav(nomer)
-        spam.suplai(nomer)
+        # spam.suplai(nomer)
         spam.depop(nomer)
         spam.dekoruma(nomer)
         spam.jag(nomer)
